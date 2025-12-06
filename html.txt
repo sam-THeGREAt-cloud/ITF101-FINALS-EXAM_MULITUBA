@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>ITF101 Finals Exam - Mulituba</title>
+    <style>
+        body {
+            background-color: violet;
+            font-family: Verdana, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 20px;
+        }
+
+        h1 {
+            color: black;
+            margin-bottom: 20px;
+        }
+
+        h2 {
+            color: purple;
+            margin-top: 40px;
+        }
+
+        p {
+            color: purple;
+            font-size: 18px;
+            line-height: 1.6;
+            max-width: 600px;
+            margin: 0 auto 20px auto;
+        }
+
+        img {
+            width: 180px;
+            height: 180px;
+            border-radius: 50%;
+            border: 3px solid #fff;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+            display: block;
+            margin: 0 auto 20px auto;
+        }
+    </style>
+</head>
+<body>
+    <h1>Mohammad Hisam D. Mulituba</h1>
+    <img src="sam.jpg" alt="My Image">
+
+    <div class="profile">
+        <h2>About Me</h2>
+        <p>
+            My name is Mohammad Hisam D. Mulituba. I am a first-year BSIT student. I like learning about computers and technology.
+        </p>
+        <p>
+            In my free time, I enjoy riding bikes. I also like earning and saving money because I want to have a good future.
+        </p>
+        <p>
+            I am a simple person who wants to learn more and improve myself.
+        </p>
+		<h3> Final Exam</h3>
+		<p>1. Which of the following best describes a "web browser"?</p>
+		
+		<p>A. A tool for managing network hardware</p>
+		<b><p>B. A software application for retrieving and displaying web content</p></b>
+ 		<p>C. A protocol used for secure data transmission</p>
+ 		<p>D. A type of server that hosts websites</p>
+		
+		
+		<p>2. In the context of networking, what is the primary purpose of a router?</p>
+		<p>A. To store data for quick access
+		<b><p>B. To connect multiple networks and direct data traffic between them</b>
+ 		<P>C. To provide wireless connectivity to devices
+ 		<p>D. To encrypt data being transmitted</p>
+			
+		<p>3. What describes the evolution from Web 1.0 to Web 2.0?
+		<b><p>A. From static pages to user-generated content and social media</b>
+ 		<p>B. From mobile apps to desktop apps
+ 		<p>C. From real-time chat to slow messaging
+ 		<p>D. From email to postal mail</p>
+		
+		<p>4. Which device forwards data packets between computer networks using routing protocols?
+		<p>A. Hub
+ 		<p>B. Switch
+		<b><p>C. Router</b>
+ 		<p>D. Bridge</p>
+
+		<p>5. What is a web browser used for?
+		<p>A. It stores databases
+ 		<P>B. It sends physical mail
+ 		<b><p>C. It retrieves and displays internet content such as pages, images, and videos</b>
+ 		<p>D. It runs operating system commands</p>
+
+	</p>
+    </div>
+</body>
+
+</html
